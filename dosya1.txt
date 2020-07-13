@@ -1,0 +1,27 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="new 3.css"/>
+</head>
+<body> 
+<table border=1> 
+<tr>  
+  <td rowspan=3 style="background-color:red;"   > A </td>
+   <td colspan=3 style="background-color:blue" > B </td>
+</tr>
+<tr> 
+   <td style="background-color:yellow"> C </td>
+   <td style="background-color:green"> D </td>
+  
+</tr>
+<tr> 
+   <td style="background-color:pink"> F </td>
+   <td style="background-color:orange"> G </td>
+   
+</tr>
+</table>
+<a href="www.sad,evrenseker.com"> Bu bir linktir. </a>
+</body>
+
+
+
+</html>

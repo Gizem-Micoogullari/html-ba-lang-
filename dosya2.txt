@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>
+www.micoogullarihukuk.com
+</title>
+</head>
+<body bgcolor= "#327ba8">
+Gizem Miçooðularý <br/>
+<dl>
+   <li> Java Programlama </li>
+   <li> Veri Yapýlarý </li>
+   <li> Ýþletim Sistemi </li>
+</dl>
+<table border = 5>
+<tr><caption> DERS PLANI </tr></caption>
+<tr>
+   <th> Baþlýk  1 </th>
+   <th> Baþlýk 2 </th>
+   <th> Baþlýk 3 </th>
+</tr>
+<tr>
+   <td> Kod </td>
+   <td colspan = 2 > Detaylar> </td>
+</tr>
+<tr> 
+   <td bgcolor="red"> Kod </td>
+   <td> Ýsim </td>
+   <td> Kredi</td>
+</tr>
+<tr>
+   <td> CSC 102 </td>
+   <td> <b> Ýnternet</b> <i> Nasýl</i> <b> Çalýþýr</b> </td>
+   <td> 3 </td>
+</tr>
+<tr>
+   <td> CSC 262 </td>
+   <td> <font size= 4 color= blue> Ýþletim Sistemi </td>
+   <td> 3 </td>
+</tr>
+<tr>
+   <td rowspan=2> Seçmeli Dersler </td>
+   <td> Tarih </td>
+   <td> 1 </td>
+</tr>
+<tr>
+   <td> Coðrafya </td>
+   <td> 2 </td>
+</tr>
+</table>
+</body>
+</html>

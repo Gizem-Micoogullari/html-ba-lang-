@@ -1,0 +1,22 @@
+<html>
+<head>
+</head>
+<body>
+<form>
+   <label for="name">Name:</label>
+   <input type="text" name="name" value="Jane Doe"> <br/>
+   
+   <input type="checkbox" name="mail" value="yes">
+   <label for="mail">Add to mailing list</label><br/>
+   <select name="i" >
+        <option value="il">individual</option>
+		<option value="Family">family</option>
+   </select> 
+   <label for="i">Type of membership</label><br/>
+   <button type="register">Register</button>
+   
+   
+</form>
+</body>
+</html>
+

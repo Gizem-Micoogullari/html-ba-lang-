@@ -1,0 +1,32 @@
+<html>
+<head>
+</head>
+<body>
+<form><table border=4>
+      <tr><td>
+	    <input type="checkbox" name="gift" value="yes">
+		<label for="gift">Hediye sever misiniz?</label>
+		</tr></td>
+      <tr><td>
+        isim:<input type= "text" name="isim" value=""> 
+		<input type="text" name="isim2" value"">
+	  </tr></td>
+	  <tr><td>
+        <input type="text" name="dyeri" value="Hatay"><br/>
+	  </tr></td> 
+	  <tr><td>
+        <button type="submit">Gönder</button>
+	  </tr></td>
+	  <tr><td>
+        <button type="clear">Temizle</button><br/>
+	  </tr></td>
+	  <tr><td>
+        <select name="popup">
+            <option value="option1">Option1</option>
+            <option value="option2">Option2</option>
+            <option value="option3">Option3</option>
+        </select>	
+      </tr></td>		
+</form>
+</body>
+</html>
